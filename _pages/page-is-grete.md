@@ -26,7 +26,7 @@ https://www.facebook.com/MASMINNESOTA
 <!-- wp:columns -->
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":113,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://wordpress-test-kring.000webhostapp.com/wp-content/uploads/2018/09/courses-03-free-img-300x203.jpg" alt="" class="wp-image-113"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://wordpress-test-kring.000webhostapp.com/wp-content/uploads/2018/09/courses-03-free-img.jpg" alt="" class="wp-image-113"/></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -36,3 +36,7 @@ https://www.facebook.com/MASMINNESOTA
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
+
+<!-- wp:table -->
+<table class="wp-block-table"><tbody><tr><td>First col</td><td>Second col</td><td>Third col</td><td>fourth col</td><td>fifth col</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<!-- /wp:table -->
