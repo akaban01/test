@@ -19,6 +19,20 @@ https://www.facebook.com/MASMINNESOTA
 </figure>
 <!-- /wp:core-embed/facebook -->
 
-<!-- wp:cover-image {"url":"https://wordpress-test-kring.000webhostapp.com/wp-content/uploads/2018/09/courses-04-free-img.jpg","align":"left","id":112,"dimRatio":40} -->
-<div class="wp-block-cover-image has-background-dim-40 has-background-dim alignleft" style="background-image:url(https://wordpress-test-kring.000webhostapp.com/wp-content/uploads/2018/09/courses-04-free-img.jpg)"><p class="wp-block-cover-image-text">More Details coming</p></div>
+<!-- wp:cover-image {"url":"https://wordpress-test-kring.000webhostapp.com/wp-content/uploads/2018/09/courses-04-free-img.jpg","align":"center","id":112,"dimRatio":40} -->
+<div class="wp-block-cover-image has-background-dim-40 has-background-dim aligncenter" style="background-image:url(https://wordpress-test-kring.000webhostapp.com/wp-content/uploads/2018/09/courses-04-free-img.jpg)"><p class="wp-block-cover-image-text">More Details coming</p></div>
 <!-- /wp:cover-image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":113} -->
+<figure class="wp-block-image"><img src="https://wordpress-test-kring.000webhostapp.com/wp-content/uploads/2018/09/courses-03-free-img.jpg" alt="" class="wp-image-113"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":110} -->
+<figure class="wp-block-image"><img src="https://wordpress-test-kring.000webhostapp.com/wp-content/uploads/2018/09/courses-06-free-img.jpg" alt="" class="wp-image-110"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
