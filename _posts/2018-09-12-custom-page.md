@@ -4,8 +4,6 @@ post_title: Custom Page
 author: admin
 post_excerpt: ""
 layout: post
-permalink: >
-  https://wordpress-test-kring.000webhostapp.com/2018/09/custom-page
 published: true
 post_date: 2018-09-12 17:38:13
 ---
