@@ -7,3 +7,5 @@ fields:
   default: Text field
 - type: textarea
   default: Text area
+pages:
+- page-through-forestryio.md
