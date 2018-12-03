@@ -1,0 +1,9 @@
+---
+label: template 1
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Text field
+- type: textarea
+  default: Text area
